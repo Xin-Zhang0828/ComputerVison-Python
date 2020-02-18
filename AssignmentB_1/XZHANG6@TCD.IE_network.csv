@@ -1,0 +1,7 @@
+convolution,24,5
+convolution,60,3
+maxpool,2
+convolution,72,3
+maxpool,4
+fully-connected,160
+fully-connected,10
